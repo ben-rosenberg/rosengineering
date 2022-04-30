@@ -1,0 +1,39 @@
+{
+  "slug": "RosEngineering",
+  "name": "RosEngineering",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "RosEngineering",
+  "author": "Ben Rosenberg",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "\u001b",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "GuideQuant",
+      "name": "GuideQuant",
+      "description": "A quantizer where a polyphonic CV signal determines the allowed notes",
+      "tags": [
+        "quantizer"
+      ]
+    },
+    {
+      "slug": "ModuleTesting",
+      "name": "ModuleTesting",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "PolyOsc",
+      "name": "PolyOsc",
+      "description": "A 4-oscillator \u001b[D\u001b[Cmultiwaveform\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D-\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dwaveform FM \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[3~\u001b\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CA multi-waveform FM synth with 4 oscillators\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bmodule with 4 oscillators",
+      "tags": [
+        "oscillator"
+      ]
+    }
+  ]
+}
